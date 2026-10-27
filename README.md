@@ -1,7 +1,5 @@
 # Leetcode_codes
 
-# Leetcode_codes
-
 My collection of LeetCode solutions as I practice Data Structures and Algorithms, improve problem-solving skills, and prepare for software engineering interviews.
 
 ## Topics
